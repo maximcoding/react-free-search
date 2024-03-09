@@ -1,0 +1,37 @@
+
+.searchText {
+    align-self: center;
+    justify-content: center;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.containerStyle {
+    display: flex;
+    padding: 100px;
+    flex-direction: column;
+    background: #37b9ff;
+}
+
+.titleStyle {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 33px;
+    color: #fae768;
+}
+
+.item {
+    align-self: center;
+    justify-content: center;
+    background-color: aliceblue;
+    width: fit-content;
+    margin: 20px;
+    /*padding: 10px;*/
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
