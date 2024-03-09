@@ -21,5 +21,6 @@
 1. `cd url-scrap-client`
 2. `npm i`
 3. `npm start`
+4. open `http://localhost:3000/`
 
 
