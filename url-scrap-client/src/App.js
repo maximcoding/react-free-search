@@ -24,6 +24,7 @@ function App() {
         const signal = controller.signal;
         getResults(pageUrl, search, signal);
         return () => controller.abort();
+        // eslint-disable-next-line
     }, [search]);
 
     return (
@@ -35,12 +36,9 @@ function App() {
                 {isLoading && <div className={'titleStyle'}>{'Searching...'}</div>}
                 {!isLoading && results.message && <div className={'titleStyle'}>{results.message}</div>}
             </div>
-            {
-                !isLoading && <Results {...results}/>
-            }
+            {!isLoading && <Results {...results}/>}
         </div>
     )
-        ;
 }
 
 export default App;
