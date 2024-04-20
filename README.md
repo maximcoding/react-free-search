@@ -1,4 +1,4 @@
-### React Free Search - any web
+### React search text - by provided url web site
 
 #### Requirements
 
