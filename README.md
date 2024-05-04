@@ -8,7 +8,7 @@
 #### Instructions
 
 1. Open terminal 
-2. Download `git clone https://github.com/maximcoding/titan-home-work.git`
+2. Download `git clone https://github.com/maximcoding/react-free-search.git`
 
 #### Install Server
 
