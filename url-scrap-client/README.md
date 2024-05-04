@@ -7,7 +7,7 @@
 #### Instructions
 
 1. Download repo ``
-2. Open terminal in root of the TITAN directory
+2. Open terminal in root of the directory
 
 #### Install Server
 
